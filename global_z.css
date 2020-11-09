@@ -1,0 +1,12 @@
+.bar-container { display: none !important; }
+.progress-bar { display: none !important; }
+.progress-text{ display: none !important; }
+#bod { margin-top: 0px !important; }
+
+img {
+  display: block;
+  max-width:350px;
+  max-height:350px;
+  width: auto;
+  height: auto;
+}
